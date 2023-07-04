@@ -1,0 +1,5 @@
+%{
+  "hash_ring_ex": {:hex, :hash_ring_ex, "1.1.2", "68fb0d2782b56c8769f3f476f6d38dab1ae38abad8700b5e57a81be4e28b94ef", [:mix, :rebar], [], "hexpm", "f33c2f7cc134d9ab1b91d961395b3a2b4d3d47b12b16c4e9d964bc3b57b7d573"},
+  "jason": {:hex, :jason, "1.4.0", "e855647bc964a44e2f67df589ccf49105ae039d4179db7f6271dfd3843dc27e6", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "79a3791085b2a0f743ca04cec0f7be26443738779d09302e01318f97bdb82121"},
+  "libcluster": {:hex, :libcluster, "3.3.3", "a4f17721a19004cfc4467268e17cff8b1f951befe428975dd4f6f7b84d927fe0", [:mix], [{:jason, "~> 1.1", [hex: :jason, repo: "hexpm", optional: false]}], "hexpm", "7c0a2275a0bb83c07acd17dab3c3bfb4897b145106750eeccc62d302e3bdfee5"},
+}
